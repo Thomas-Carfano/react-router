@@ -1,10 +1,11 @@
 import './index.css'
-import NavBar from './components/NavBar'
+import MainComp from "./components/MainComp";
+
 
 const App = () =>{
   return (
     <>
-      <NavBar />
+      <MainComp />
     </>
   )
 }
